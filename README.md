@@ -75,4 +75,4 @@
 1. Матрица: leterdieu:4d2.org
 2. Тг: @leterDieu
 
-[-](photo_2026-03-15_23-15-18.jpg)
+![anton](photo_2026-03-15_23-15-18.jpg)
