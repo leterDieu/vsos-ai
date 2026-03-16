@@ -9,6 +9,7 @@
 [Оценка + пример](math/Оценка+Пример.pdf)  
 [Графы 1](math/graphs_medium.pdf)  
 [Графы 2](math/graphs_hard.pdf)  
+[Задачи по линалу](math/linalg.pdf)
 
 ## МЛ тетрадки
 
