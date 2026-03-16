@@ -68,6 +68,21 @@
 
 [Pandas Training](pandas/Pandas_Training.ipynb), [данные](https://disk.yandex.ru/i/h8rGNXyIQV_ZQw), [решение](pandas/Pandas_Training_Solution.ipynb)  
 
+## Вброс от t.me/vsosh_ai | @vsosh_ii
+
+### Математика 
+[Пробный мат тур](math/тестовый_вариант_первый_тур.pdf)  
+[Тренажер по математике](https://stepik.org/274550)  
+
+### МЛ, ДЛ задачи
+
+[Анализ данных](https://contest.yandex.ru/roiarchive/contest/88262/problems/A1/)  
+[Кластеризация](https://www.kaggle.com/competitions/neoai-2025-cluster-pictures), [бейзлайн](https://www.kaggle.com/code/timriggins/basel1ne-cluster-1mages)  
+[Таблицы](https://www.kaggle.com/competitions/neoai-2025-tricy-table-data), [бейзлайн](https://www.kaggle.com/code/timriggins/basel1ne-tricy-table-data)  
+[NLP](https://www.kaggle.com/competitions/neoai-2025-broken-bert), [бейзлайн](https://www.kaggle.com/code/ilseyaralimova/broken-bert-baseline)  
+[CV](https://www.kaggle.com/competitions/neoai-2025-underfitting-cv), [бейзлайн](https://www.kaggle.com/code/timriggins/baseline-cv-underfitting)
+
+
 # Для контрибьюторов
 
 Если вы нашли ошибку/опечатку, хотите дополнить данные и т.д., сделайте пр, откройте ишью или напишите мне.  
